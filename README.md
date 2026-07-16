@@ -1,3 +1,7 @@
+
+
+
+
 # 📋 Base de Fornecedores — Power Apps
 
 > App low-code desenvolvida em **Power Apps** para centralizar o cadastro e gestão de fornecedores, eliminando o controle manual em planilhas soltas.
@@ -17,8 +21,7 @@ Este projeto nasceu da necessidade de organizar o cadastro de fornecedores de fo
 
 ## 🖼️ Demonstração
 
-<!-- Substitua pelo seu GIF ou screenshot -->
-
+https://github.com/user-attachments/assets/c6b97e66-b2b4-4bcd-b161-4a312725965c
 
 ---
 
