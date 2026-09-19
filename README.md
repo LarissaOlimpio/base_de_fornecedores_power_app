@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/c6b97e66-b2b4-4bcd-b161-4a312725965c
 - [x] Listagem de fornecedores em galeria
 - [x] Edição de registros existentes
 - [x] Exclusão de registros
-- [ ] Validação dos campos
+<!-- - [ ] Validação dos campos
 - [ ] Confirmação antes de excluir
 - [ ] Responsividade
 - [ ] Modificar os erros de verificação para campos preenchidos para português
@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/c6b97e66-b2b4-4bcd-b161-4a312725965c
 - [ ] Máscara de telefone
 - [ ] Upload de documentos
 - [ ] Controle de acesso por perfil
-- [ ] Notificações automáticas (Power Automate + Teams/Email)
+- [ ] Notificações automáticas (Power Automate + Teams/Email) -->
 
 
 ---
