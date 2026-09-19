@@ -6,7 +6,7 @@
 
 > App low-code desenvolvida em **Power Apps** para centralizar o cadastro e gestão de fornecedores, eliminando o controle manual em planilhas soltas.
 
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+<!-- ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  -->
 ![powerapps](https://img.shields.io/badge/Power%20Apps-Canvas%20App-0066B8)
 
 ---
